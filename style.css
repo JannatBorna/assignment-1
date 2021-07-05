@@ -1,9 +1,18 @@
+/*--------1st-section-----*/
+
 body{
     font-family: 'Poppins', sans-serif;
-}
+    margin: 0;
+   }
+
  h1{
      font-size: 50px;
     font-weight: 900; 
+ }
+
+ h2{
+     font-size: 30px;
+     font-weight: 900;
  }
 p{
     font-size: 20px;
@@ -35,3 +44,33 @@ p{
     padding: 7px;
     border-radius: 5px;
 }
+
+
+
+.blod{
+    font-size: 25px;
+    font-weight: 900;
+}  
+
+.picture-two{
+
+    position: relative;
+    max-width: 700px;
+    margin: 0;
+    padding-left: 0;
+    background-position: left;
+    width: 80%;
+    height: 100px;
+}
+
+#my-favourite-food{
+    text-align: center;
+    margin: 100px;
+    padding: 90px;
+    height: 80px;
+}
+
+
+
+
+
