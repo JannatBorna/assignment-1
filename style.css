@@ -26,6 +26,7 @@ p{
 .picture{
     padding-left: 5%;
     width: 90%;
+    margin-top: 200px;
 }
 
 .picture img{
@@ -61,6 +62,7 @@ p{
     background-position: left;
     width: 80%;
     height: 100px;
+    margin-top: 100px;
 }
 
 #my-favourite-food{
@@ -70,7 +72,36 @@ p{
     height: 80px;
 }
 
+.manu-one{
+ border: 5px solid white;
+ border-radius: 10px;
+ margin: 10px;
+ padding: 10px;
+ text-align: justify;
+ width: 20%;
+ height: 20px;
 
+}
 
+.wrap{
+    width: 800px;
+    height: 500px;
+    margin: 25px;
+    margin-top: 10px;
+    padding: 30px;
+   
 
-
+}
+.card{
+     box-shadow: 20px 20px 40px black; 
+   width: 50%;
+    height: 500px;
+    background: white;
+    text-align: justify;
+    font-family: sans-serif;
+    margin: 50px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 10px solid white ;
+   
+}
