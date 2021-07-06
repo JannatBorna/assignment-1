@@ -1,8 +1,6 @@
-/*--------1st-section-----*/
-
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 0;
+   margin: 0; 
    }
 
  h1{
@@ -104,4 +102,53 @@ p{
     border-radius: 10px;
     border: 10px solid white ;
    
+}
+
+.flower-two-three{
+    border: 5px solid rgb(235, 230, 230);
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+    height: 300px;
+    width: 90%;
+    display: inline-block;
+    
+    text-align: justify;
+}
+
+.text{
+    font-size: 30px;
+}
+
+.last-section{
+    background-color: black;
+    border: 5px solid rgb(235, 230, 230);
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+    height: 300px;
+    width: 90%;
+    display: inline-block;
+    
+}
+
+.box-tag{
+    text-align: center;
+}
+
+.last-section{
+    text-align: center;
+    
+}
+
+.font{
+    color: chocolate;
+    
+}
+.gray{
+    color: gray;
+}
+
+.white{
+    color: white;
 }
