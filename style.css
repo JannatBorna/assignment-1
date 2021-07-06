@@ -4,6 +4,14 @@ body{
    padding: 0;
    background-size: cover;
 }
+
+/*-----search-bar---------*/
+ .bar-tow{
+     margin: 10px;
+     padding: 10px;
+     text-align: right;
+ }
+
 .bar{
     margin: 0 0 10px;
     padding: 0;
@@ -43,8 +51,19 @@ input[type="submit"]
      background: #ffc107;
      color:#ffff ;
 }
- h1{
-     font-size: 50px;
+
+
+/*------assignment 1st section-----------*/
+.diet-food{
+margin: 0;
+padding: 0;
+margin-top:5px;
+ width: 90%;
+ height: 5px;      
+} 
+h1{
+
+  font-size: 50px;
     font-weight: 900; 
  }
 
@@ -64,11 +83,12 @@ p{
 .picture{
     padding-left: 5%;
     width: 90%;
-    margin-top: 200px;
+    margin-top: 10px;
 }
 
 .picture img{
     width: 100%;
+   
 
 }
   
@@ -88,7 +108,7 @@ p{
 
 
 
-
+/*---------assignment 2nd section---*/
 
 .blod{
     font-size: 25px;
@@ -103,11 +123,14 @@ p{
     padding-left: 0;
     background-position: left;
     width: 80%;
-    height: 100px;
+    height: 20px;
     margin-top: 5px;
     font-size: 25px;
+    margin-top: 10px;
 }
 
+
+/*--------assignment 3rd section-----*/
 #my-favourite-food{
     text-align: center;
     margin: 100px;
@@ -116,30 +139,12 @@ p{
     margin-top: 5px;
 }
 
-.manu-one{
- border: 5px solid white;
- border-radius: 10px;
- margin: 10px;
- padding: 10px;
- text-align: justify;
- width: 20%;
- height: 20px;
- margin-top: 5px;
-
-}
 
 
 
 
-.wrap{
-    width: 800px;
-    height: 500px;
-    margin: 25px;
-    margin-top: 10px;
-    padding: 30px;
-   
+/*----------asssignment 4th section---*/
 
-}
 .card{
      box-shadow: 20px 20px 40px black; 
      width: 50%;
@@ -153,21 +158,13 @@ p{
     border: 10px solid white ;
 }
 
-
-
-.flower-two-three{
-    border: 10px solid rgb(235, 230, 230);
-    border-radius: 20px;
-    padding: 30px;
-    margin: 20px;
-    width: 100%;
-    height: 300px;
-    display: inline-block;
-    font-size: 50px; 
-    text-align: justify;
-   font-weight: 900;
+.pra{
+    font-size: 15px;
+    font-weight: 600;
 }
 
+
+/*-------Food management section----*/
 .card-box{
     border: 5px solid rgb(235, 230, 230);
     border-radius: 10px;
@@ -178,15 +175,30 @@ p{
     display: inline-block;
 }
 
+/*-------assignment 5th  section----*/
+.flower-two-three{
+    border: 10px solid rgb(235, 230, 230);
+    border-radius: 20px;
+    padding: 30px;
+    margin: 20px;
+    width: 100%;
+    height: 300px;
+    display: inline-block;
+    font-size: 50px; 
+    text-align: justify;
+    font-weight: 900;
+}
 
 .box-tag-one{
     width: 33.33%;
     font-size:10px ;
 }
+
 .box-tag-two{
 width: 33.33%;
 font-size:10px ;
 }
+
 .box-tag-three{
 width: 33.33%;
 font-size:10px ;
@@ -194,8 +206,7 @@ font-size:10px ;
 
 
 
-
-
+/*---------assignment 6th section------*/
 .last-section{
     background-color: black;
     border: 5px solid rgb(235, 230, 230);
